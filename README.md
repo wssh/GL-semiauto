@@ -1,3 +1,4 @@
 #GL-semiauto
 
 KILL THE DOGGO BEFORE THE VULCAN OR ELSE RIP YOUR CHEEVOS.
+Type !gl before entering.
